@@ -1,15 +1,17 @@
+Обход TCP / IP с eBPF в Istio.   
+
 код uber : : P2P Docker registry способен распределять TBs данных за считанные секунды      
 https://github.com/gridgentoo/kraken     
 
 [Uber, TBs of data in seconds] Uber Kraken [P2P Docker registry capable of distributing TBs of data in seconds] & [Protocol децентрализованной файловой системы].   
  ⁣https://docs.google.com/document/d/1crcW4r-atHpkJqqd-wt5u7mJOaqeMytknN_orxr7AmM/    
  
-Это решение направлено на обход стека TCP / IP для ускорения сервисной сети, оно выгодно в двух сценариях:
+Это решение направлено на обход стека TCP / IP для ускорения сервисной сети, оно выгодно в двух сценариях:    
 
-p2p-связь с внедренной коляской
-p2p-связь без ввода коляски
+p2p-связь с внедренной коляской    
+p2p-связь без ввода коляски   
 
-TCP/IP Bypass with eBPF in Istio
+TCP/IP Bypass with eBPF in Istio   
 ================================
 
 This solution aims to bypass TCP/IP stack to accelerate service mesh, it benefits two scenarios:
