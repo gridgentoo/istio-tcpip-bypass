@@ -1,7 +1,8 @@
-код uber : : P2P Docker registry способен распределять TBs данных за считанные секунды   
-https://github.com/gridgentoo/kraken   
+код uber : : P2P Docker registry способен распределять TBs данных за считанные секунды      
+https://github.com/gridgentoo/kraken     
 
-[Uber, TBs of data in seconds] Uber Kraken [P2P Docker registry capable of distributing TBs of data in seconds] & [Protocol децентрализованной файловой системы] ⁣ ⁣https://docs.google.com/document/d/1crcW4r-atHpkJqqd-wt5u7mJOaqeMytknN_orxr7AmM/
+[Uber, TBs of data in seconds] Uber Kraken [P2P Docker registry capable of distributing TBs of data in seconds] & [Protocol децентрализованной файловой системы].   
+ ⁣https://docs.google.com/document/d/1crcW4r-atHpkJqqd-wt5u7mJOaqeMytknN_orxr7AmM/    
 
 TCP/IP Bypass with eBPF in Istio
 ================================
